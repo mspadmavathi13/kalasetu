@@ -1,12 +1,11 @@
-<p>
-  <img src="kalafinal.jpeg" alt="KalaSetu - Connecting People, Preserving Heritage" width="100%">
-</p>
+## KalaSetu 🎨
 
 Connecting People with Traditional Artisans. Preserving India’s Cultural Heritage.
 
 KalaSetu is a platform designed to connect people with traditional artisans and help preserve India’s rich regional art, craft, and cultural heritage.
 
 Our aim is to bridge the gap between traditional artisans and modern audiences by making regional craftsmanship more accessible and discoverable.
+
 
 ## 🌟 The Problem
 
@@ -22,32 +21,11 @@ Through technology, we aim to create opportunities for artisans while helping pe
 
 ## ✨ Key Features
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="artisan-discovery.jpg" width="100%">
-      <h3>Artisan Discovery</h3>
-      Discover traditional artists and their work.
-    </td>
-    <td width="50%">
-      <img src="cultural-preservation.jpg" width="100%">
-      <h3>Cultural Preservation</h3>
-      Document and showcase regional art forms.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="craft-stories.jpg" width="100%">
-      <h3>Craft Stories</h3>
-      Explore the stories behind traditional crafts.
-    </td>
-    <td width="50%">
-      <img src="digital-accessibility.jpg" width="100%">
-      <h3>Digital Accessibility</h3>
-      Make traditional crafts easier to discover.
-    </td>
-  </tr>
-</table>
+•⁠  ⁠Artisan Discovery: Explore traditional artisans and their craftsmanship.
+•⁠  ⁠Cultural Preservation: Help document and showcase regional art forms.
+•⁠  ⁠Digital Accessibility: Make traditional crafts accessible to a wider audience.
+•⁠  ⁠Technology Integration: Use digital tools to improve accessibility and user experience.
+
 
 ## 🌐 Live Project
 
@@ -68,6 +46,24 @@ GitHub Repository:
 •⁠  ⁠AI / ML: 
 
 •⁠  ⁠APIs and Integrations: 
+
+## 🚀 Getting Started
+
+To explore or run the project locally:
+
+1.⁠ ⁠Clone the repository.
+
+git clone [YOUR REPOSITORY URL]
+
+2.⁠ ⁠Navigate to the project directory.
+
+cd kalasetu
+
+3.⁠ ⁠Follow the setup instructions provided in the respective app and website folders.
+
+## 🎯 Our Vision
+
+To create a digital bridge between India’s traditional artisans and the modern world, ensuring that regional craftsmanship, stories, and cultural heritage continue to be discovered and appreciated by future generations.
 
 ##
 
