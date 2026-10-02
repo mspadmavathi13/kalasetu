@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="kala.png" alt="KalaSetu Logo" width="200">
-</p>
-
-## **KalaSetu**
+<table>
+<tr>
+<td width="120">
+<img src="kala.png" width="110" alt="KalaSetu Logo">
+</td>
+<td>
+<h1>KalaSetu</h1>
+<p><b>Connecting People. Preserving Heritage.</b></p>
+</td>
+</tr>
+</table>
 
 Connecting People with Traditional Artisans. Preserving India’s Cultural Heritage.
 
