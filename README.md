@@ -1,5 +1,25 @@
-## KalaSetu 🎨
-
+<table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <img src="./kalaedited.jpeg" alt="KalaSetu Logo" width="190">
+    </td>
+    <td width="72%" valign="middle">
+      <h1>
+        <font color="#E8B75E" size="7">KalaSetu</font>
+      </h1>
+      <h2>
+        <font color="#F5E8D5">Connecting People.<br>
+          Preserving Heritage.
+        </font>
+      </h2>
+      <p>
+        <font color="#D9C2A5" size="4">
+          Bridging traditional artisans and modern audiences.
+        </font>
+      </p>
+    </td>
+  </tr>
+</table>
 Connecting People with Traditional Artisans. Preserving India’s Cultural Heritage.
 
 KalaSetu is a platform designed to connect people with traditional artisans and help preserve India’s rich regional art, craft, and cultural heritage.
