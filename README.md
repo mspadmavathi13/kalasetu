@@ -33,14 +33,14 @@ Website: [ADD YOUR DEPLOYED WEBSITE LINK HERE]
 
 GitHub Repository: [ADD YOUR GITHUB REPOSITORY LINK HERE]
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-•⁠  ⁠Frontend: [Add technology]
-•⁠  ⁠Backend: [Add technology]
-•⁠  ⁠Programming Languages: [Add languages]
-•⁠  ⁠Database: [Add database, if applicable]
-•⁠  ⁠AI / ML: [Add tools, if applicable]
-•⁠  ⁠APIs and Integrations: [Add APIs used]
+•⁠  ⁠Frontend: Add your technology
+•⁠  ⁠Backend: Add your technology
+•⁠  ⁠Programming Languages: Add your languages
+•⁠  ⁠Database: Add your database
+•⁠  ⁠AI / ML: Add your tools
+•⁠  ⁠APIs and Integrations: Add your APIs
 
 ⸻
 
