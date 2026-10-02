@@ -42,43 +42,6 @@ GitHub Repository: [ADD YOUR GITHUB REPOSITORY LINK HERE]
 •⁠  ⁠AI / ML: [Add tools, if applicable]
 •⁠  ⁠APIs and Integrations: [Add APIs used]
 
-📁 Project Structure
-
-KalaSetu/
-│
-├── app/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── README.md
-│   └── ...
-│
-├── website/
-│   ├── public/
-│   ├── routes/
-│   ├── services/
-│   ├── server.js
-│   ├── package.json
-│   └── ...
-│
-└── README.md
-
-🚀 Getting Started
-
-To explore or run the project locally:
-
-1.⁠ ⁠Clone the repository.
-
-git clone [YOUR REPOSITORY URL]
-
-2.⁠ ⁠Navigate to the project directory.
-
-cd kalasetu
-
-3.⁠ ⁠Follow the setup instructions provided in the respective app and website folders.
-🎯 Our Vision
-
-To create a digital bridge between India’s traditional artisans and the modern world, ensuring that regional craftsmanship, stories, and cultural heritage continue to be discovered and appreciated by future generations.
-
 ⸻
 
 Built with ❤️ for India’s traditional artisans and cultural heritage.
