@@ -48,16 +48,17 @@ KalaSetu/
 │
 ├── app/
 │   ├── app.py
-│   ├── training/
 │   ├── requirements.txt
-│   └── README.md
+│   ├── README.md
+│   └── ...
 │
 ├── website/
 │   ├── public/
 │   ├── routes/
 │   ├── services/
 │   ├── server.js
-│   └── package.json
+│   ├── package.json
+│   └── ...
 │
 └── README.md
 
