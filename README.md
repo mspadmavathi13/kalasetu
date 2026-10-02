@@ -1,14 +1,6 @@
-<table>
-<tr>
-<td width="120">
-<img src="kala.png" width="110" alt="KalaSetu Logo">
-</td>
-<td>
-<h1>KalaSetu</h1>
-<p><b>Connecting People. Preserving Heritage.</b></p>
-</td>
-</tr>
-</table>
+<p>
+  <img src="kalafinal.jpeg" alt="KalaSetu - Connecting People, Preserving Heritage" width="100%">
+</p>
 
 Connecting People with Traditional Artisans. Preserving India’s Cultural Heritage.
 
@@ -30,33 +22,52 @@ Through technology, we aim to create opportunities for artisans while helping pe
 
 ## ✨ Key Features
 
-•⁠  ⁠Artisan Discovery: Explore traditional artisans and their craftsmanship.
-
-•⁠  ⁠Cultural Preservation: Help document and showcase regional art forms.
-
-•⁠  ⁠Digital Accessibility: Make traditional crafts accessible to a wider audience.
-
-•⁠  ⁠Technology Integration: Use digital tools to improve accessibility and user experience.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="artisan-discovery.jpg" width="100%">
+      <h3>Artisan Discovery</h3>
+      Discover traditional artists and their work.
+    </td>
+    <td width="50%">
+      <img src="cultural-preservation.jpg" width="100%">
+      <h3>Cultural Preservation</h3>
+      Document and showcase regional art forms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="craft-stories.jpg" width="100%">
+      <h3>Craft Stories</h3>
+      Explore the stories behind traditional crafts.
+    </td>
+    <td width="50%">
+      <img src="digital-accessibility.jpg" width="100%">
+      <h3>Digital Accessibility</h3>
+      Make traditional crafts easier to discover.
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Live Project
 
-Website: [ADD YOUR DEPLOYED WEBSITE LINK HERE]
+Website: 
 
-GitHub Repository: [ADD YOUR GITHUB REPOSITORY LINK HERE]
+GitHub Repository: 
 
 ## 🛠️ Technology Stack
 
-•⁠  ⁠Frontend: Add your technology
+•⁠  ⁠Frontend: 
 
-•⁠  ⁠Backend: Add your technology
+•⁠  ⁠Backend: 
 
-•⁠  ⁠Programming Languages: Add your languages
+•⁠  ⁠Programming Languages: 
 
-•⁠  ⁠Database: Add your database
+•⁠  ⁠Database: 
 
-•⁠  ⁠AI / ML: Add your tools
+•⁠  ⁠AI / ML: 
 
-•⁠  ⁠APIs and Integrations: Add your APIs
+•⁠  ⁠APIs and Integrations: 
 
 ##
 
