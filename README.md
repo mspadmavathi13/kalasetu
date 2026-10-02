@@ -8,7 +8,8 @@
         <font color="#E8B75E" size="7">KalaSetu</font>
       </h1>
       <h2>
-        <font color="#F5E8D5">Connecting People.<br>
+        <font color="#F5E8D5">
+          Connecting People.<br>
           Preserving Heritage.
         </font>
       </h2>
@@ -20,92 +21,102 @@
     </td>
   </tr>
 </table>
-Connecting People with Traditional Artisans. Preserving India’s Cultural Heritage.
 
-KalaSetu is a platform designed to connect people with traditional artisans and help preserve India’s rich regional art, craft, and cultural heritage.
+# KalaSetu
 
-Our aim is to bridge the gap between traditional artisans and modern audiences by making regional craftsmanship more accessible and discoverable.
+### Connecting People with Traditional Artisans. Preserving India's Cultural Heritage.
 
+KalaSetu is a digital platform designed to connect traditional artisans with modern audiences while helping preserve India's rich regional art, craft, and cultural heritage.
+
+The platform brings together **multilingual communication, AI-assisted cataloguing, craft storytelling, heritage pricing support, and marketplace discovery** into one digital ecosystem.
+
+Our goal is to make traditional craftsmanship more accessible, discoverable, and digitally present while keeping the artisan and their cultural knowledge at the centre.
+
+---
 
 ## 🌟 The Problem
 
-Traditional artisans and regional crafts often struggle with visibility, accessibility, and opportunities to reach wider audiences.
+Traditional artisans and regional crafts often face challenges such as:
 
-As a result, many traditional art forms and cultural practices risk being forgotten over time.
+- Limited digital visibility
+- Language barriers when communicating with wider audiences
+- Difficulty creating professional digital product catalogues
+- Lack of accessible pricing references
+- Limited opportunities to document and showcase the stories behind their crafts
+- Difficulty reaching customers beyond their local communities
+
+As traditional knowledge is passed from generation to generation, the absence of proper digital documentation and visibility can also make cultural practices harder for future audiences to discover.
+
+---
 
 ## 💡 Our Solution
 
-KalaSetu provides a digital platform that brings traditional artisans, their crafts, and cultural stories closer to people.
+**KalaSetu** creates a digital bridge between artisans and modern audiences.
 
-Through technology, we aim to create opportunities for artisans while helping people discover and appreciate India’s diverse heritage.
+The platform helps artisans:
 
-## ✨ Key Features
+- Communicate with customers across language barriers
+- Create structured digital product catalogues
+- Document their craft knowledge and stories
+- Showcase photographs and craft-making processes
+- Receive AI-assisted pricing insights
+- Publish their products to a digital marketplace
+
+At the same time, customers can discover not only the product, but also the **craft, process, materials, story, and artisan behind it**.
+
+---
+
+# ✨ Key Features
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <img src="./artisan-discovery.jpg" width="100%" alt="Artisan Discovery">
-      <h3>Artisan Discovery</h3>
-      Discover traditional artists and their work.
+      <h3>🧑‍🎨 Artisan Discovery</h3>
+      Discover traditional artisans and explore the people behind India's diverse crafts.
     </td>
     <td width="50%" valign="top">
       <img src="./cultural-preservation.jpg" width="100%" alt="Cultural Preservation">
-      <h3>Cultural Preservation</h3>
-      Document and showcase regional art forms.
+      <h3>🏺 Cultural Preservation</h3>
+      Digitally document and showcase traditional crafts, knowledge, techniques, and cultural heritage.
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <img src="./craft-stories.jpg" width="100%" alt="Craft Stories">
-      <h3>Craft Stories</h3>
-      Explore the stories behind traditional crafts.
+      <h3>📖 Craft Stories</h3>
+      Explore the stories, traditions, materials, processes, and people behind handmade crafts.
     </td>
     <td width="50%" valign="top">
       <img src="./digital-accessibility.jpg" width="100%" alt="Digital Accessibility">
-      <h3>Digital Accessibility</h3>
-      Make traditional crafts easier to discover.
+      <h3>🌐 Digital Accessibility</h3>
+      Make traditional crafts more accessible to modern audiences through multilingual and digital-first experiences.
     </td>
   </tr>
 </table>
 
-## 🌐 Live Project
+---
 
-Website: 
+## 🎤 Multilingual Artisan Communication
 
-GitHub Repository: 
+KalaSetu integrates **BHASHINI** to support multilingual interaction between artisans and audiences.
 
-## 🛠️ Technology Stack
+Artisans can use voice input in supported Indian languages, which is processed through the KalaSetu BHASHINI backend for speech recognition and translation.
 
-•⁠  ⁠Frontend: 
+This helps reduce language barriers and allows artisans to communicate their craft in a more natural way.
 
-•⁠  ⁠Backend: 
+### Workflow
 
-•⁠  ⁠Programming Languages: 
-
-•⁠  ⁠Database: 
-
-•⁠  ⁠AI / ML: 
-
-•⁠  ⁠APIs and Integrations: 
-
-## 🚀 Getting Started
-
-To explore or run the project locally:
-
-1.⁠ ⁠Clone the repository.
-
-git clone 
-
-2.⁠ ⁠Navigate to the project directory.
-
-cd kalasetu
-
-3.⁠ ⁠Follow the setup instructions provided in the respective app and website folders.
-
-## 🎯 Our Vision
-
-To create a digital bridge between India’s traditional artisans and the modern world, ensuring that regional craftsmanship, stories, and cultural heritage continue to be discovered and appreciated by future generations.
-
-##
-
-Built with ❤️ for India’s traditional artisans and cultural heritage.
+```text
+Artisan speaks
+      ↓
+Voice input
+      ↓
+BHASHINI
+      ↓
+Speech Recognition
+      ↓
+Translation
+      ↓
+English / Digital Content
